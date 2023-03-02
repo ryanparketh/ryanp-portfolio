@@ -18,27 +18,27 @@ const about = {
 
 const projects = [
   {
-    name: 'Project 1',
+    name: 'Ryan Park Portfolio',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
+      'tbd',
+    stack: ['JavaScript', 'CSS3', 'HTML', 'React'],
+    sourceCode: 'https://github.com/ryanparketh/ryanp-portfolio',
     livePreview: 'https://github.com',
   },
   {
-    name: 'Project 2',
+    name: 'Employee Tracker',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
+    'This is a employee tracker that can be used when the user inputs node server.js which will allow them to selecteed between viewing all departments, roles, and employees as well being able to add a department, role, or employee as well updating employee roles.',
+    stack: ['Node', 'JavaScript', 'MySQL'],
+    sourceCode: 'https://github.com/ryanparketh/employee-tracker',
     livePreview: 'https://github.com',
   },
   {
-    name: 'Project 3',
+    name: 'NFT Emporium',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
+      'This projectis a full stack web application using the MERN Stack single- page application to build an e-commerce website called NFT Emporium.',
+    stack: ['MERN', 'CSS3', 'JavaScript', 'GraphQL'],
+    sourceCode: 'https://github.com/kmcwilson/NFT-Emporium',
     livePreview: 'https://github.com',
   },
 ]
