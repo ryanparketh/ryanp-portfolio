@@ -8,8 +8,8 @@ const about = {
   name: 'Ryan Park',
   role: 'Full Stack Web Developer',
   description:
-    'Full stack web developer providing unique perspectives on how end-users interact with websites and software platforms. Innovative problem-solver who is passionate about developing with a focus on design and development. Strengths in creativity, teamwork, and building projects from ideation to execution.',
-  resume: 'https://example.com',
+    'I am a full stack web developer that provides unique perspectives on how end-users interact with websites and software platforms. Innovative problem-solver who is passionate about developing with a focus on design and development. Strengths in creativity, teamwork, and building projects from ideation to execution.',
+  resume: 'https://docs.google.com/document/d/1iIWEl9bt9ylaiInqK_K4HtXIIsGU6BYl1eH416EWqx8/edit?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/ryanparketh/',
     github: 'https://github.com/ryanparketh',
@@ -20,7 +20,7 @@ const projects = [
   {
     name: 'Ryan Park Portfolio',
     description:
-      'tbd',
+      'This is a personal portfolio I created that is visually appealing and user-friendly that showcases projects, skills, and has a contact section. It features a clean, modern design that allows the user to toggle between light and dark mode.',
     stack: ['JavaScript', 'CSS3', 'HTML', 'React'],
     sourceCode: 'https://github.com/ryanparketh/ryanp-portfolio',
     livePreview: 'https://github.com',
