@@ -15,7 +15,7 @@
 }
 
 .dark {
-  --clr-bg: #080808;
+  --clr-bg: rgb(36, 35, 35);
   --clr-bg-alt: #222;
   --clr-fg: #777;
   --clr-fg-alt: #888;
