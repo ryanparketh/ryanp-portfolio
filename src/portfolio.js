@@ -31,7 +31,7 @@ const projects = [
     'This is a employee tracker that can be used when the user inputs node server.js which will allow them to selecteed between viewing all departments, roles, and employees as well being able to add a department, role, or employee as well updating employee roles.',
     stack: ['Node', 'JavaScript', 'MySQL'],
     sourceCode: 'https://github.com/ryanparketh/employee-tracker',
-    livePreview: 'https://github.com',
+    // livePreview: 'https://github.com',
   },
   {
     name: 'NFT Emporium',
@@ -39,13 +39,11 @@ const projects = [
       'This project is a full stack web application using the MERN Stack single-page application to build an e-commerce website called NFT Emporium.',
     stack: ['MERN', 'CSS3', 'JavaScript', 'GraphQL'],
     sourceCode: 'https://github.com/kmcwilson/NFT-Emporium',
-    livePreview: 'https://github.com',
+    // livePreview: 'https://github.com',
   },
 ]
 
 const skills = [
-  // skills can be added or removed
-  // if there are no skills, Skills section won't show up
   'HTML',
   'CSS',
   'JavaScript',
