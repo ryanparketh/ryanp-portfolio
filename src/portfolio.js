@@ -36,7 +36,7 @@ const projects = [
   {
     name: 'NFT Emporium',
     description:
-      'This projectis a full stack web application using the MERN Stack single- page application to build an e-commerce website called NFT Emporium.',
+      'This project is a full stack web application using the MERN Stack single-page application to build an e-commerce website called NFT Emporium.',
     stack: ['MERN', 'CSS3', 'JavaScript', 'GraphQL'],
     sourceCode: 'https://github.com/kmcwilson/NFT-Emporium',
     livePreview: 'https://github.com',
