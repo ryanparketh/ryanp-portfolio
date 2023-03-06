@@ -23,7 +23,7 @@ const projects = [
       'This is a personal portfolio I created that is visually appealing and user-friendly that showcases projects, skills, and has a contact section. It features a clean, modern design that allows the user to toggle between light and dark mode.',
     stack: ['JavaScript', 'CSS3', 'HTML', 'React'],
     sourceCode: 'https://github.com/ryanparketh/ryanp-portfolio',
-    livePreview: 'https://github.com',
+    livePreview: 'https://ryanparketh.github.io/ryanp-portfolio/',
   },
   {
     name: 'Employee Tracker',
