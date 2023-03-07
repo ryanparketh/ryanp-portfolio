@@ -8,7 +8,7 @@ const about = {
   name: 'Ryan Park',
   role: 'Full Stack Web Developer',
   description:
-    'I am a full stack web developer that provides unique perspectives on how end-users interact with websites and software platforms. Innovative problem-solver who is passionate about developing with a focus on design and development. Strengths in creativity, teamwork, and building projects from ideation to execution.',
+    'I am a Full Stack Web Developer that can provide unique perspectives on how end-users interact with websites and software platforms. I am an innovative problem-solver, who is passionate and focused on design and development. My strengths in creativity, teamwork and project building from ideation to execution would prove to be an asset, and I am confident that my unique qualities would provide opportunities for growth.',
   resume: 'https://docs.google.com/document/d/1iIWEl9bt9ylaiInqK_K4HtXIIsGU6BYl1eH416EWqx8/edit?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/ryanparketh/',
