@@ -18,12 +18,12 @@ const about = {
 
 const projects = [
   {
-    name: 'Ryan Park Portfolio',
+    name: 'E-Commerce Back End',
     description:
-      'This is a personal portfolio I created that is visually appealing and user-friendly that showcases projects, skills, and has a contact section. It features a clean, modern design that allows the user to toggle between light and dark mode.',
-    stack: ['JavaScript', 'CSS3', 'HTML', 'React'],
-    sourceCode: 'https://github.com/ryanparketh/ryanp-portfolio',
-    livePreview: 'https://ryanparketh.github.io/ryanp-portfolio/',
+      'This is an e-commerce application that is the back-end portion of an e-commerce store.',
+    stack: ['JavaScript', 'Express', 'MySQL'],
+    sourceCode: 'https://github.com/ryanparketh/e-commerce',
+    // livePreview: 'https://ryanparketh.github.io/ryanp-portfolio/',
   },
   {
     name: 'Employee Tracker',
@@ -34,12 +34,12 @@ const projects = [
     // livePreview: 'https://github.com',
   },
   {
-    name: 'NFT Emporium',
+    name: 'Password Generator',
     description:
-      'This project is a full stack web application using the MERN Stack single-page application to build an e-commerce website called NFT Emporium.',
-    stack: ['MERN', 'CSS3', 'JavaScript', 'GraphQL'],
-    sourceCode: 'https://github.com/kmcwilson/NFT-Emporium',
-    // livePreview: 'https://github.com',
+      'This password generator is an application that an employee can use to generate a random password based on the criteria they select.',
+    stack: ['HTML', 'CSS3', 'JavaScript'],
+    sourceCode: 'https://github.com/ryanparketh/password-gen',
+    livePreview: 'https://ryanparketh.github.io/password-gen/',
   },
 ]
 
